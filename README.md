@@ -5,8 +5,8 @@ Projeto em Flutter que cria uma APP que busca as informações de um endereço a
 ## Informações
 
 A aplicação criada por este projeto gera um App para celulares Android que possui:
-. Campo texto: onde deve-se digitar o CEP a ser pesquisado
-. Botão Buscar: após ser clicado iniciará a busca das informações relativas ao endereço do CEP informado
+- Campo texto: onde deve-se digitar o CEP a ser pesquisado
+- Botão Buscar: após ser clicado iniciará a busca das informações relativas ao endereço do CEP informado
 
 O [Site Viacep](https://viacep.com.br) fornece as informações do endereço a partir do CEP informado através do seguinte formato:
 - [viacep.com.br/ws/CEP/json/](https://viacep.com.br/ws/01001000/json/') onde o CEP corresponde aos números do CEP que será pesquisado
